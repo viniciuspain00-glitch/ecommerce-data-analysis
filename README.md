@@ -95,7 +95,7 @@ The main steps in the notebook include:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/ecommerce-data-analysis.git
+git clone https://github.com/YOUR-USERNAME/ecommerce-data-analysis.git
 
 2. Open the notebook:
 
